@@ -12,5 +12,7 @@ This app will tell you when you can climb outdoors based on ideal conditions:
     humidityMax = 70.0
     badWeather = ('Rain','Snow')
 
-
+Requirements to run this app:
+make sure python is installed,
+then run this line: pip install -r requirements.txt
 

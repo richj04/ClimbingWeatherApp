@@ -16,3 +16,6 @@ Requirements to run this app:
 make sure python is installed,
 then run this line: pip install -r requirements.txt
 
+You also need to get your own api key and make a file called .env that contains API_KEY=your key here
+-->https://home.openweathermap.org/api_keys
+

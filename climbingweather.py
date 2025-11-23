@@ -4,7 +4,7 @@ import requests
 from datetime import datetime
 import pytz
 
-API_KEY = "4f8c6cec0b07527a37d7b7fe92dad5fa"
+API_KEY = "your_api_key_here"
 
 def get_weather(lat, lon):
     url = (f'https://api.openweathermap.org/data/2.5/forecast?lat={lat}&lon={lon}&appid={API_KEY}&units=imperial')
